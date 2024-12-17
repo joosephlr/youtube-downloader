@@ -1,0 +1,91 @@
+/home/gabriel/Desktop/YtbDown/bin/Debug/net7.0/appsettings.Development.json
+/home/gabriel/Desktop/YtbDown/bin/Debug/net7.0/appsettings.json
+/home/gabriel/Desktop/YtbDown/bin/Debug/net7.0/YtbDown.staticwebassets.runtime.json
+/home/gabriel/Desktop/YtbDown/bin/Debug/net7.0/YtbDown
+/home/gabriel/Desktop/YtbDown/bin/Debug/net7.0/YtbDown.deps.json
+/home/gabriel/Desktop/YtbDown/bin/Debug/net7.0/YtbDown.runtimeconfig.json
+/home/gabriel/Desktop/YtbDown/bin/Debug/net7.0/YtbDown.dll
+/home/gabriel/Desktop/YtbDown/bin/Debug/net7.0/YtbDown.pdb
+/home/gabriel/Desktop/YtbDown/bin/Debug/net7.0/AngleSharp.dll
+/home/gabriel/Desktop/YtbDown/bin/Debug/net7.0/YoutubeExplode.dll
+/home/gabriel/Desktop/YtbDown/obj/Debug/net7.0/YtbDown.csproj.AssemblyReference.cache
+/home/gabriel/Desktop/YtbDown/obj/Debug/net7.0/YtbDown.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Desktop/YtbDown/obj/Debug/net7.0/YtbDown.AssemblyInfoInputs.cache
+/home/gabriel/Desktop/YtbDown/obj/Debug/net7.0/YtbDown.AssemblyInfo.cs
+/home/gabriel/Desktop/YtbDown/obj/Debug/net7.0/YtbDown.csproj.CoreCompileInputs.cache
+/home/gabriel/Desktop/YtbDown/obj/Debug/net7.0/YtbDown.MvcApplicationPartsAssemblyInfo.cache
+/home/gabriel/Desktop/YtbDown/obj/Debug/net7.0/YtbDown.RazorAssemblyInfo.cache
+/home/gabriel/Desktop/YtbDown/obj/Debug/net7.0/YtbDown.RazorAssemblyInfo.cs
+/home/gabriel/Desktop/YtbDown/obj/Debug/net7.0/staticwebassets/msbuild.YtbDown.Microsoft.AspNetCore.StaticWebAssets.props
+/home/gabriel/Desktop/YtbDown/obj/Debug/net7.0/staticwebassets/msbuild.build.YtbDown.props
+/home/gabriel/Desktop/YtbDown/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.YtbDown.props
+/home/gabriel/Desktop/YtbDown/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.YtbDown.props
+/home/gabriel/Desktop/YtbDown/obj/Debug/net7.0/staticwebassets.pack.json
+/home/gabriel/Desktop/YtbDown/obj/Debug/net7.0/staticwebassets.build.json
+/home/gabriel/Desktop/YtbDown/obj/Debug/net7.0/staticwebassets.development.json
+/home/gabriel/Desktop/YtbDown/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/gabriel/Desktop/YtbDown/obj/Debug/net7.0/scopedcss/bundle/YtbDown.styles.css
+/home/gabriel/Desktop/YtbDown/obj/Debug/net7.0/scopedcss/projectbundle/YtbDown.bundle.scp.css
+/home/gabriel/Desktop/YtbDown/obj/Debug/net7.0/YtbDown.csproj.CopyComplete
+/home/gabriel/Desktop/YtbDown/obj/Debug/net7.0/YtbDown.dll
+/home/gabriel/Desktop/YtbDown/obj/Debug/net7.0/refint/YtbDown.dll
+/home/gabriel/Desktop/YtbDown/obj/Debug/net7.0/YtbDown.pdb
+/home/gabriel/Desktop/YtbDown/obj/Debug/net7.0/YtbDown.genruntimeconfig.cache
+/home/gabriel/Desktop/YtbDown/obj/Debug/net7.0/ref/YtbDown.dll
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\bin\Debug\net7.0\runtimes\win-x86\native\WebView2Loader.dll
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\bin\Debug\net7.0\runtimes\win-x64\native\WebView2Loader.dll
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\bin\Debug\net7.0\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\bin\Debug\net7.0\appsettings.Development.json
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\bin\Debug\net7.0\appsettings.json
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\bin\Debug\net7.0\YtbDown.staticwebassets.runtime.json
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\bin\Debug\net7.0\YtbDown.exe
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\bin\Debug\net7.0\YtbDown.deps.json
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\bin\Debug\net7.0\YtbDown.runtimeconfig.json
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\bin\Debug\net7.0\YtbDown.dll
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\bin\Debug\net7.0\YtbDown.pdb
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\bin\Debug\net7.0\AngleSharp.dll
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\bin\Debug\net7.0\Google.Apis.dll
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\bin\Debug\net7.0\Google.Apis.Auth.dll
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\bin\Debug\net7.0\Google.Apis.Core.dll
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\bin\Debug\net7.0\Google.Apis.YouTube.v3.dll
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\bin\Debug\net7.0\System.CodeDom.dll
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\bin\Debug\net7.0\System.IO.Pipelines.dll
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\bin\Debug\net7.0\System.Management.dll
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\bin\Debug\net7.0\System.Net.Http.Json.dll
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\bin\Debug\net7.0\System.Text.Json.dll
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\bin\Debug\net7.0\YoutubeExplode.dll
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Management.dll
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\bin\Debug\net7.0\Microsoft.Web.WebView2.Core.dll
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\bin\Debug\net7.0\Microsoft.Web.WebView2.WinForms.dll
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\bin\Debug\net7.0\Microsoft.Web.WebView2.Wpf.dll
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\bin\Debug\net7.0\Microsoft.Web.WebView2.Core.xml
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\bin\Debug\net7.0\Microsoft.Web.WebView2.WinForms.xml
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\bin\Debug\net7.0\Microsoft.Web.WebView2.Wpf.xml
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\obj\Debug\net7.0\YtbDown.csproj.AssemblyReference.cache
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\obj\Debug\net7.0\YtbDown.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\obj\Debug\net7.0\YtbDown.AssemblyInfoInputs.cache
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\obj\Debug\net7.0\YtbDown.AssemblyInfo.cs
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\obj\Debug\net7.0\YtbDown.csproj.CoreCompileInputs.cache
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\obj\Debug\net7.0\YtbDown.MvcApplicationPartsAssemblyInfo.cache
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\obj\Debug\net7.0\YtbDown.RazorAssemblyInfo.cache
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\obj\Debug\net7.0\YtbDown.RazorAssemblyInfo.cs
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\obj\Debug\net7.0\staticwebassets.build.json
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\obj\Debug\net7.0\staticwebassets.development.json
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\obj\Debug\net7.0\staticwebassets\msbuild.YtbDown.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\obj\Debug\net7.0\staticwebassets\msbuild.build.YtbDown.props
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.YtbDown.props
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.YtbDown.props
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\obj\Debug\net7.0\scopedcss\bundle\YtbDown.styles.css
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\obj\Debug\net7.0\scopedcss\projectbundle\YtbDown.bundle.scp.css
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\obj\Debug\net7.0\YtbDown.csproj.Up2Date
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\obj\Debug\net7.0\YtbDown.dll
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\obj\Debug\net7.0\refint\YtbDown.dll
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\obj\Debug\net7.0\YtbDown.pdb
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\obj\Debug\net7.0\YtbDown.genruntimeconfig.cache
+D:\Arquivos Gerais\Projetos Dev\YtbDownlMvc-master\obj\Debug\net7.0\ref\YtbDown.dll
