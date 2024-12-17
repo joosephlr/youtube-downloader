@@ -2234,11 +2234,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Arquivos Gerais\\Projetos Dev\\YtbDownlMvc-master\\YtbDown.csproj",
+      "projectUniqueName": "D:\\Arquivos Gerais\\Projetos Dev\\youtube-downloader\\YtbDown.csproj",
       "projectName": "YtbDown",
-      "projectPath": "D:\\Arquivos Gerais\\Projetos Dev\\YtbDownlMvc-master\\YtbDown.csproj",
+      "projectPath": "D:\\Arquivos Gerais\\Projetos Dev\\youtube-downloader\\YtbDown.csproj",
       "packagesPath": "C:\\Users\\DESKTOP_JL\\.nuget\\packages\\",
-      "outputPath": "D:\\Arquivos Gerais\\Projetos Dev\\YtbDownlMvc-master\\obj\\",
+      "outputPath": "D:\\Arquivos Gerais\\Projetos Dev\\youtube-downloader\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DESKTOP_JL\\AppData\\Roaming\\NuGet\\NuGet.Config",
