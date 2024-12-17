@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iPmt3Vc320+GwbpKp6RiRWn+1JSYahoBEZtssxEeW4FSB44q2nVrpfJdJVb4AawdXapD3X21/qccdkg/1Bxt2A==",
+  "dgSpecHash": "t+jwtZgLyQM2PMhPh/klp96L/lGBNv4ymKXh8hE20FaSV/G6IH3GTDj6bCR7wR6BYcfSI/asKi7tFD2OEtu2Sg==",
   "success": true,
-  "projectFilePath": "D:\\Arquivos Gerais\\Projetos Dev\\YtbDownlMvc-master\\YtbDown.csproj",
+  "projectFilePath": "D:\\Arquivos Gerais\\Projetos Dev\\youtube-downloader\\YtbDown.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DESKTOP_JL\\.nuget\\packages\\anglesharp\\1.1.2\\anglesharp.1.1.2.nupkg.sha512",
     "C:\\Users\\DESKTOP_JL\\.nuget\\packages\\google.apis\\1.68.0\\google.apis.1.68.0.nupkg.sha512",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YtbDown")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc72badf6ed2a38d8efefec1a6f088e6497b3101")]
 [assembly: System.Reflection.AssemblyProductAttribute("YtbDown")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YtbDown")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
